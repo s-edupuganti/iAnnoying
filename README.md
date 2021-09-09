@@ -1,2 +1,2 @@
 # iAnnoying
-A really shitty app that passes off as a really good April Fools joke.
+A really terrible app that passes off as a really good April Fools joke.
